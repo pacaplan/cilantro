@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bun link:*)",
+      "Bash(cilantro help:*)",
+      "Bash(cilantro init:*)",
+      "Bash(cilantro backends:*)",
+      "Bash(bun run typecheck:*)",
+      "Bash(cilantro:*)",
+      "Bash(CILANTRO_BACKEND=codex cilantro:*)",
+      "Bash(cat:*)",
+      "Bash(bun test:*)"
+    ]
+  }
+}
